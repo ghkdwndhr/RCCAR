@@ -82,7 +82,7 @@ void loop() {
   int brightness = getSmoothBrightness(pwm_ch6);
 
   // 선택 대상의 밝기/색상 처리 
-  // **3색 RED 밝기값 RED값이 불안정하게 나오는 문제 황주옥과 함께 해결**
+  // **3색 RED 밝기값 RED값이 불안정하게 나오는 문제 박기주와 함께 해결**
   if (selectedTarget == 0) {
     int r_raw, g_raw, b_raw;
     float hue = map(pwm_ch7, 1200, 2000, 0, 360);
