@@ -45,7 +45,7 @@
 
 > 아래 사진은 R9D 수신기, Arduino Uno, 브레드보드, RGB 및 일반 LED의 연결 상태를 보여줍니다.
 
-![회로 구성 사진](![image](https://github.com/user-attachments/assets/75ee19a9-21fa-47df-bd9e-9311ed93bc81))
+(![image](https://github.com/user-attachments/assets/75ee19a9-21fa-47df-bd9e-9311ed93bc81))
 
 - 오른쪽 상단: **R9D 수신기**
 - 중앙: **Arduino Uno**
