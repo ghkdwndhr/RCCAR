@@ -7,7 +7,7 @@
 
 ## 📺 시연 영상
 
-👉 [시연 영상 보러가기 (YouTube)](https://youtu.be/여기에_링크를_붙여주세요)
+👉 [시연 영상 보러가기](https://youtu.be/d78b-IXxTWc?si=KHArjQPACeX8IalK)
 
 영상에서는 다음 3가지 기능이 정상 동작하는 것을 확인할 수 있습니다:
 1. **RGB LED 색상 및 밝기 조절**
@@ -50,7 +50,8 @@
 - 오른쪽 상단: **R9D 수신기**
 - 중앙: **Arduino Uno**
 - 브레드보드: **RGB LED**, **LED1, LED2**, **저항 연결**
-- 각 CH5~CH8 PWM 신호는 Arduino의 D2~D7 핀으로 연결됩니다.
+- 각 `CH5~CH8` PWM 신호는 Arduino의 `D2~D7` 핀으로 연결됩니다.
+
 
 ---
 
